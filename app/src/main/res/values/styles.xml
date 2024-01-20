@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="roundedImageView">
+<!--        <item name="cornerSize">50%</item>-->
+<item name="cornerSizeBottomRight">70%</item>
+<item name="cornerFamilyBottomRight">rounded</item>
+    </style>
+    
+</resources>
