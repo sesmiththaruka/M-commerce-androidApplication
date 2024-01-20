@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Xpect</string>
+    <string name="bottom_nav_home_title">Home</string>
+    <string name="bottom_nav_fav_title">fovourite</string>
+    <string name="bottom_nav_add_title">add</string>
+    <string name="bottom_nav_noti_title">Notifications</string>
+    <string name="bottom_nav_user_title">User</string>
+    <string name="side_nav_home_title">Home</string>
+    <string name="side_nav_home_profile_title">Profile\n</string>
+    <string name="side_nav_home_favo">Favourite</string>
+    <string name="side_nav_logout">Logout\n</string>
+    <string name="side_nav_login">Login</string>
+    <string name="drawer_open">Navigaton Drawer Open</string>
+    <string name="drawer_close">Navigation Drawer Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="web_client_id">770603897216-l3egih79m4tg5rond0ar42kvf2iilbqk.apps.googleusercontent.com</string>
+    <string name="private_event">Private Event</string>
+    <string name="public_event">Public Event</string>
+    <string name="event_name">Event Name</string>
+    <string name="register_event">Register Event</string>
+    <string name="register_event_next">Next</string>
+
+
+</resources>
